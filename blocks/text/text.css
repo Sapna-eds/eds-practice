@@ -1,0 +1,19 @@
+.product-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 300px;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+}
+
+.product-card h2 {
+  margin-top: 15px;
+}
+
+.product-card .price {
+  font-weight: bold;
+}
